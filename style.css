@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mining-container {
+    margin-top: 20px;
+}
+
+#worker {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRjbHE5dGhvcnllcHM0b21ucnJoc3MzNTJsajFxN3Jlc3dkd256NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
